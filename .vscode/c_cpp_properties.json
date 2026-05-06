@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/Zeal/d3dx8",
+        "${workspaceFolder}/Zeal"
+      ],
+      "defines": [
+        "WIN32",
+        "WIN32_LEAN_AND_MEAN",
+        "NDEBUG",
+        "ZEAL_EXPORTS",
+        "_WINDOWS",
+        "_USRDLL"
+      ],
+      "windowsSdkVersion": "10.0",
+      "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx86/x86/cl.exe",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "windows-msvc-x86"
+    }
+  ],
+  "version": 4
+}
